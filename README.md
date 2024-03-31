@@ -3,7 +3,7 @@
 </div>
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=PORTFOLIO&fontColor=3C3434&section=header&reversal=false&textBg=false&desc=BrotherHwan&descSize=20&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=PORTFOLIO(Developing...)&fontColor=3C3434&section=header&reversal=false&textBg=false&desc=BrotherHwan&descSize=20&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
 
 
 
