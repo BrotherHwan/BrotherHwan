@@ -4,7 +4,7 @@
 </div>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=PORTFOLIO(Developing...)&fontColor=3C3434&section=header&reversal=false&textBg=false&desc=BrotherHwan&descSize=20&descAlign=56&descAlignY=73&fontAlign=50&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PORTFOLIO&section=header&reversal=false&desc=BrotherHwan&textBg=false&descAlign=63&animation=fadeIn)
 
 
 
