@@ -30,12 +30,12 @@
 
 　  
 ## ✨ Projects
- #### 1. 지뢰찾기
-> &nbsp;&nbsp;&nbsp;설 명 : Windows 지뢰찾기 클론 코딩   
-> &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 25 ~ 2023. 12. 29  
-> &nbsp;&nbsp;&nbsp;사용기술 : C#, SQL   
+ #### 1. 태양광 추적 시스템
+> &nbsp;&nbsp;&nbsp;설 명 : 태양광 추적   
+> &nbsp;&nbsp;&nbsp;기 간 : 2023. 11. 13 ~ 2023. 11. 17  
+> &nbsp;&nbsp;&nbsp;사용기술 : C   
 >
-><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+><a href="https://github.com/BrotherHwan/Solar_tracking_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 
 
  #### 2. 초음파 센서를 이용한 자율 주행 자동차
