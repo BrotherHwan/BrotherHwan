@@ -38,10 +38,10 @@
 ><a href="https://github.com/BrotherHwan/Solar_tracking_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 
 
- #### 2. 초음파 센서를 이용한 자율 주행 자동차
-> &nbsp;&nbsp;&nbsp;설 명 : ADAS 자율주행 SW RC카 설계   
-> &nbsp;&nbsp;&nbsp;기 간 : 2024. 02. 26 ~ 2024. 03. 08  
-> &nbsp;&nbsp;&nbsp;사용기술 : C, RTOS, STM32, UltraSonic   
+ #### 2. 온도조절 시스템
+> &nbsp;&nbsp;&nbsp;설 명 : 온도조절 시스템  
+> &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 22 ~ 2023. 12. 29  
+> &nbsp;&nbsp;&nbsp;사용기술 : C, C++, C#   
 >
 ><a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 >
