@@ -4,10 +4,11 @@
 </div>
 -->
 
+<div align="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=PORTFOLIO&section=header&reversal=false&desc=BrotherHwan&textBg=false&descAlign=63&animation=fadeIn)
 
 
-<div align="center">
+
 ## Intro
 안녕하세요!  
 [Intel] Edge AI SW (900H) 프로젝트 과정을 기록하였습니다.  
