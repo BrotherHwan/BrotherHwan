@@ -50,6 +50,15 @@
 >
 > 
 
+ #### 3. 쇼핑카테고리 분류 AI모델
+> &nbsp;&nbsp;&nbsp;설 명 : 상품 타이틀만으로 상품의 카테고리를 분류합니다.  
+> &nbsp;&nbsp;&nbsp;기 간 : 2024. 1. 24 ~ 2024. 1. 31  
+> &nbsp;&nbsp;&nbsp;사용기술 : Python   
+>
+><a href="https://github.com/BrotherHwan/shopping_category_classification.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+>
+> 
+
 
 
 ## 🎞 Side Project  
