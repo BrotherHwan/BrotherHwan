@@ -16,12 +16,12 @@
 
 
 　
-## ⚙ Skills  
+## 🐬 Skills 🐬
 ![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=cpp&logoColor=white) ![c](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![d](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![e](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![f](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
 　
-## 🛠 IDE  
+## 💡 IDE  
 ![a](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252) 
 ![b](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) 
 ![c](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) 
