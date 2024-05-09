@@ -16,7 +16,7 @@
 
 
 　
-## 🐬 Skills 🐬
+## 🐬 Skills 
 ![a](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=cpp&logoColor=white) ![b](https://img.shields.io/badge/C++-14354C?style=for-the-badge&logo=cpp&logoColor=white) ![c](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![d](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![e](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![f](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 
@@ -31,7 +31,7 @@
 
 
 　  
-## ✨ Projects
+## 🐑 Projects
  #### 1. 태양광 추적 시스템
 > &nbsp;&nbsp;&nbsp;설 명 : 조도센서값을 이용한 태양광 추적   
 기 간 : 2023. 11. 13 ~ 2023. 11. 17  
