@@ -39,17 +39,13 @@
 >
 ><a href="https://github.com/BrotherHwan/Solar_tracking_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
 
-
-
-
  #### 2. 온도조절 시스템
 > &nbsp;&nbsp;&nbsp;설 명 : 온도조절 시스템  
 > &nbsp;&nbsp;&nbsp;기 간 : 2023. 12. 22 ~ 2023. 12. 29  
 > &nbsp;&nbsp;&nbsp;사용기술 : C, C#   
 >
 ><a href="https://github.com/BrotherHwan/Temperature_control_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
->
-> 
+ 
 
 
  #### 3. 쇼핑카테고리 분류 AI모델
@@ -58,30 +54,6 @@
 > &nbsp;&nbsp;&nbsp;사용기술 : Python   
 >
 ><a href="https://github.com/BrotherHwan/shopping_category_classification.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
->
-> 
-
-
-
-## 🎞 Side Project  
-> #### 1. 실종아동 성인 얼굴인식 모델 설계 (진행중)  
-> &nbsp;&nbsp;&nbsp;설 명 : 생성 모델을 이용하여 실종 아동의 성인 얼굴을 예측하는 모델 설계 예정 :  
-> &nbsp;&nbsp;&nbsp;기 간 : 2024. 02 ~ (지연)    
-> &nbsp;&nbsp;&nbsp;사용기술 : GAN, Python  
->  
-> <a href="https://github.com/">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
->  
-
-
-　 
-> #### 2. K-헤커톤 (디벨롭 중)  
-> &nbsp;&nbsp;&nbsp;설 명 :    
-> &nbsp;&nbsp;&nbsp;기 간 :  
-> &nbsp;&nbsp;&nbsp;사용기술 : Python  
->   
-> <a href="https://github.com/">![a](https://img.shields.io/badge/googledocs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)</a>  
->  
-
 
 　
 ## 📞 Contact  
