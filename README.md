@@ -37,7 +37,8 @@
 > &nbsp;&nbsp;&nbsp;기 간 : 2023. 11. 13 ~ 2023. 11. 17  
 > &nbsp;&nbsp;&nbsp;사용기술 : C, C++   
 >
-><a href="https://github.com/BrotherHwan/Solar_tracking_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>  
+><a href="https://github.com/BrotherHwan/Solar_tracking_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+> #
 
  #### 2. 온도조절 시스템
 > &nbsp;&nbsp;&nbsp;설 명 : 온도조절 시스템  
@@ -45,6 +46,7 @@
 > &nbsp;&nbsp;&nbsp;사용기술 : C, C#   
 >
 ><a href="https://github.com/BrotherHwan/Temperature_control_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+#
  
 
 
@@ -54,6 +56,7 @@
 > &nbsp;&nbsp;&nbsp;사용기술 : Python   
 >
 ><a href="https://github.com/BrotherHwan/shopping_category_classification.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+#
 
 　
 ## 📞 Contact  
