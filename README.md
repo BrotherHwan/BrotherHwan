@@ -38,14 +38,12 @@
 사용기술 : C, C++   
 <a href="https://github.com/BrotherHwan/Solar_tracking_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <br/>
-<br/>
 
  #### 2. 온도조절 시스템
 > &nbsp;&nbsp;&nbsp;설 명 : 온도조절 시스템  
 기 간 : 2023. 12. 22 ~ 2023. 12. 29  
 사용기술 : C, C#   
 <a href="https://github.com/BrotherHwan/Temperature_control_system.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-<br/>
 <br/>
 
  #### 3. 쇼핑카테고리 분류 AI모델
@@ -54,14 +52,12 @@
 사용기술 : Python   
 <a href="https://github.com/BrotherHwan/shopping_category_classification.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <br/>
-<br/>
 
  #### 4. 카페추천 프로그램
 > &nbsp;&nbsp;&nbsp;설 명 : 원하는 메뉴나 특징을 입력시 알맞은 카페를 추천합니다. <br/>
 기 간 : 2024. 2. 1 ~ 2024. 2. 8  
 사용기술 : Python   
 <a href="https://github.com/BrotherHwan/Cafe_in">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-<br/>
 <br/>
 　
 ## 📞 Contact  
