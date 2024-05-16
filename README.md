@@ -59,7 +59,14 @@
 사용기술 : Python   
 <a href="https://github.com/BrotherHwan/Cafe_in">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <br/>
-　
+
+  #### 5. 자율주행 프로그램
+> &nbsp;&nbsp;&nbsp;설 명 : stm32보드를 이용하여 자율주행차를 만듭니다. <br/>
+기 간 : 2024. 2. 15 ~ 2024. 2. 28  
+사용기술 : C, RTOS
+<a href="https://github.com/BrotherHwan/Auto_drive_car.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
+<br/>
+
 ## 📞 Contact  
 #### 📧 Email :
 
