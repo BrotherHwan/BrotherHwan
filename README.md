@@ -53,13 +53,6 @@
 <a href="https://github.com/BrotherHwan/Cafe_in">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 <br/>
 
- #### 쇼핑카테고리 분류 AI모델
-> &nbsp;&nbsp;&nbsp;설 명 : 상품 타이틀만으로 상품의 카테고리를 분류합니다.  
-기 간 : 2024. 1. 24 ~ 2024. 1. 31  
-언어 : Python  
-<a href="https://github.com/BrotherHwan/shopping_category_classification.git">![a](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
-<br/>
-
 #### 온도조절 시스템
 > &nbsp;&nbsp;&nbsp;설 명 : 온도조절 시스템  
 기 간 : 2023. 12. 22 ~ 2023. 12. 29  
